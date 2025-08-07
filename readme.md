@@ -87,9 +87,5 @@ prettytable>=3.9.0
 
 ---
 
-### Автор
- 
-Разработано : [Dmitriy Chumachenko](https://www.linkedin.com/in/dmitriy-chumachenko)
-Вопросы, предложения — всегда рад обратной связи.
+### Автор [Dmitriy Chumachenko](https://www.linkedin.com/in/dmitriy-chumachenko)
 
----
