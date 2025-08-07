@@ -172,7 +172,7 @@ def log_search(log_type: str) -> Callable:
                 except (ValueError, TypeError):
                     year = None
 
-                if not genres_clean or year is None or year < 1900:
+                if not genres_clean or year is None or year < 1990:
                     return func(*args, **kwargs)
 
                 recent = collection.find_one({
@@ -407,7 +407,7 @@ def log_genre_exact_year_search(genres: List[str], year: int) -> None:
         → создаст запись в базе и в лог-файле, если аналогичная не была создана в течение последних 5 секунд.
     """
     genres_clean = [g.strip() for g in genres if g and g.strip()]
-    if not genres_clean or year is None or year < 1900:
+    if not genres_clean or year is None or year < 1990:
         return
 
     now = datetime.utcnow()
