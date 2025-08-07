@@ -6,7 +6,6 @@
 Консольное Python-приложение для поиска фильмов в базе данных MySQL (Sakila).  
 Приложение логирует запросы в MongoDB и файл, поддерживает пагинацию, визуальные эффекты, проверку ввода и выдаёт статистику по запросам.
 
-Репозиторий: [Python_Console_Chumachenko_Final](https://github.com/atheus-dm/Python_Projects/tree/main/Python_Console_Chumachenko_Final)
 
 ### Структура проекта
 
@@ -89,8 +88,8 @@ prettytable>=3.9.0
 ---
 
 ### Автор
-
-Чумаченко Дмитрий  
-GitHub: [atheus-dm](https://github.com/atheus-dm/Python_Projects/tree/main/Python_Console_Chumachenko_Final)
+ 
+Разработано : [Dmitriy Chumachenko](https://www.linkedin.com/in/dmitriy-chumachenko)
+Вопросы, предложения — всегда рад обратной связи.
 
 ---
