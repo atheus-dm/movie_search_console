@@ -1,0 +1,170 @@
+2025-07-25 19:56:58,591 [INFO] Сохранён keyword → 'test3'
+2025-07-25 20:02:09,307 [INFO] Сохранён keyword → 'test5'
+2025-07-25 20:06:17,133 [INFO] Сохранён keyword → 'test6'
+2025-07-25 20:06:38,239 [INFO] Сохранён genres → ['Action'] | years → 1990-2020
+2025-07-25 20:09:32,185 [INFO] Лог сохранён: keyword → 'тест7'
+2025-07-25 20:09:32,185 [INFO] Сохранён keyword → 'тест7'
+2025-07-25 20:09:49,550 [INFO] Лог сохранён: keyword → 'sport'
+2025-07-25 20:09:49,550 [INFO] Сохранён keyword → 'sport'
+2025-07-25 20:09:55,621 [INFO] Лог сохранён: keyword → 'love'
+2025-07-25 20:09:55,621 [INFO] Сохранён keyword → 'love'
+2025-07-25 20:15:17,201 [INFO] Лог сохранён: keyword → 'love'
+2025-07-25 20:15:17,202 [INFO] Сохранён keyword → 'love'
+2025-07-25 20:16:01,935 [INFO] Лог сохранён: genres → ['Games'] | years → 1996-2023
+2025-07-25 20:16:01,935 [INFO] Сохранён genres → ['Games'] | years → 1996-2023
+2025-07-25 20:16:22,382 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:16:22,383 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:30:48,876 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:30:48,876 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:31:16,897 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-25 20:31:16,898 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-25 20:34:19,807 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:34:19,807 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2025
+2025-07-25 20:45:20,697 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-25 20:45:20,698 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-25 20:48:43,148 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-25 20:48:43,149 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990-2020
+2025-07-28 14:23:51,688 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Drama'] | years → 2025-2025
+2025-07-28 14:23:51,691 [INFO] Сохранён genres → ['Action', 'Children', 'Drama'] | years → 2025-2025
+2025-07-28 15:28:03,640 [INFO] Лог сохранён: keyword → 'love'
+2025-07-28 15:28:03,643 [INFO] Сохранён keyword → 'love'
+2025-07-28 15:28:45,533 [INFO] Лог сохранён: genres → ['Sports', 'Travel'] | years → 1990-2024
+2025-07-28 15:28:45,533 [INFO] Сохранён genres → ['Sports', 'Travel'] | years → 1990-2024
+2025-07-28 15:42:49,157 [INFO] Лог сохранён: genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:42:49,157 [INFO] Сохранён genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:50:30,359 [INFO] Лог сохранён: genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:50:30,359 [INFO] Сохранён genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:50:55,457 [INFO] Лог сохранён: genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:50:55,457 [INFO] Сохранён genres → ['Sports', 'Travel'] | years → 1990-2025
+2025-07-28 15:57:17,241 [INFO] Лог сохранён: genres → ['Children', 'Foreign', 'Games'] | years → 1990-2025
+2025-07-28 15:57:17,241 [INFO] Сохранён genres → ['Children', 'Foreign', 'Games'] | years → 1990-2025
+2025-07-28 15:57:59,885 [INFO] Лог сохранён: keyword → 'killer'
+2025-07-28 15:57:59,885 [INFO] Сохранён keyword → 'killer'
+2025-07-28 16:04:17,659 [INFO] Лог сохранён: keyword → 'kill'
+2025-07-28 16:04:17,659 [INFO] Сохранён keyword → 'kill'
+2025-07-28 16:04:56,878 [INFO] Лог сохранён: genres → ['Classics', 'Drama', 'Sports'] | years → 1999-2019
+2025-07-28 16:04:56,878 [INFO] Сохранён genres → ['Classics', 'Drama', 'Sports'] | years → 1999-2019
+2025-07-28 16:09:09,875 [INFO] Лог сохранён: genres → ['Action', 'Comedy'] | years → 2000-2020
+2025-07-28 16:09:09,875 [INFO] Сохранён genres → ['Action', 'Comedy'] | years → 2000-2020
+2025-07-28 16:16:36,359 [INFO] Лог сохранён: genres → ['Action', 'Comedy'] | years → 1993-2023
+2025-07-28 16:16:36,359 [INFO] Сохранён genres → ['Action', 'Comedy'] | years → 1993-2023
+2025-07-28 16:17:23,696 [INFO] Лог сохранён: genres → ['Sci-Fi'] | years → 2000-2023
+2025-07-28 16:17:23,696 [INFO] Сохранён genres → ['Sci-Fi'] | years → 2000-2023
+2025-07-28 16:19:39,916 [INFO] Лог сохранён: keyword → 'men'
+2025-07-28 16:19:39,916 [INFO] Сохранён keyword → 'men'
+2025-07-28 18:40:57,965 [INFO] Лог сохранён: genres → ['Comedy', 'Drama', 'New', 'Sports', 'Travel'] | years → 2001-2024
+2025-07-28 18:40:57,966 [INFO] Сохранён genres → ['Comedy', 'Drama', 'New', 'Sports', 'Travel'] | years → 2001-2024
+2025-07-28 18:41:57,677 [INFO] Лог сохранён: keyword → 'dad'
+2025-07-28 18:41:57,677 [INFO] Сохранён keyword → 'dad'
+2025-07-28 18:50:52,863 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1993-2009
+2025-07-28 18:50:52,863 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1993-2009
+2025-07-28 18:58:38,188 [INFO] Лог сохранён: keyword → 'ball'
+2025-07-28 18:58:38,188 [INFO] Сохранён keyword → 'ball'
+2025-07-28 21:42:34,199 [INFO] Лог сохранён: keyword → 'killer'
+2025-07-28 21:42:34,200 [INFO] Сохранён keyword → 'killer'
+2025-07-28 21:43:44,023 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Documentary'] | years → 1990-2020
+2025-07-28 21:43:44,024 [INFO] Сохранён genres → ['Action', 'Children', 'Documentary'] | years → 1990-2020
+2025-07-30 09:09:22,852 [INFO] Лог сохранён: keyword → 'love'
+2025-07-30 09:09:22,853 [INFO] Сохранён keyword → 'love'
+2025-07-30 09:12:52,721 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1999-2019
+2025-07-30 09:12:52,721 [INFO] Сохранён genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1999-2019
+2025-07-30 11:16:01,475 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children'] | years → 1990-2020
+2025-07-30 11:16:01,478 [INFO] Сохранён genres → ['Action', 'Animation', 'Children'] | years → 1990-2020
+2025-07-30 11:35:37,585 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Drama'] | years → 1999-2024
+2025-07-30 11:35:37,586 [INFO] Сохранён genres → ['Action', 'Children', 'Drama'] | years → 1999-2024
+2025-07-30 11:37:28,100 [INFO] Лог сохранён: keyword → 'love'
+2025-07-30 11:37:28,100 [INFO] Сохранён keyword → 'love'
+2025-07-30 11:38:56,240 [INFO] Лог сохранён: genres → ['Action', 'Documentary', 'Travel'] | years → 1999-2009
+2025-07-30 11:38:56,240 [INFO] Сохранён genres → ['Action', 'Documentary', 'Travel'] | years → 1999-2009
+2025-07-30 16:30:36,125 [INFO] Лог сохранён: genres → ['Action', 'Classics', 'Documentary'] | years → 1999-2013
+2025-07-30 16:30:36,127 [INFO] Сохранён genres → ['Action', 'Classics', 'Documentary'] | years → 1999-2013
+2025-07-30 18:48:29,768 [INFO] Лог сохранён: keyword → 'ball'
+2025-07-30 19:34:20,573 [INFO] Лог сохранён: keyword → 'killer'
+2025-07-30 19:35:05,696 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Games'] | years → 1996
+2025-07-30 20:04:37,979 [INFO] Лог сохранён: keyword → 'ben'
+2025-07-30 20:04:51,908 [INFO] Лог сохранён: keyword → 'ben'
+2025-07-30 20:05:00,811 [INFO] Лог сохранён: keyword → 'ben'
+2025-07-31 17:07:03,800 [INFO] Лог сохранён: keyword → ''
+2025-07-31 17:36:52,708 [INFO] Лог сохранён: keyword → ''
+2025-07-31 19:33:07,114 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Documentary'] | years → 1999
+2025-07-31 19:34:50,156 [INFO] Лог сохранён: genres → ['Comedy', 'Foreign', 'Sports'] | years → 1992
+2025-07-31 19:34:56,641 [INFO] Лог сохранён: genres → ['Comedy', 'Foreign', 'Sports'] | years → 1992
+2025-07-31 19:35:38,490 [INFO] Лог сохранён: genres → ['Classics', 'Drama'] | years → 1991
+2025-07-31 19:39:26,817 [INFO] Лог сохранён: genres → ['Documentary', 'Horror'] | years → 2000
+2025-07-31 19:39:36,439 [INFO] Лог сохранён: genres → ['Documentary', 'Horror'] | years → 2000
+2025-07-31 19:39:45,458 [INFO] Лог сохранён: genres → ['Documentary', 'Horror'] | years → 2000
+2025-07-31 20:01:06,103 [INFO] Лог сохранён: keyword → 'killer'
+2025-07-31 20:01:40,693 [INFO] Лог сохранён: keyword → 'ball'
+2025-07-31 20:02:23,976 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Comedy'] | years → 1990
+2025-07-31 20:06:44,267 [INFO] Лог сохранён: genres → ['Animation'] | years → 2003
+2025-07-31 20:12:37,760 [INFO] Лог сохранён: keyword → 'killer'
+2025-07-31 20:13:26,565 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Games'] | years → 2025–2025
+2025-07-31 20:14:11,985 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign'] | years → 1990–2025
+2025-07-31 22:20:02,613 [INFO] Лог сохранён: keyword → 'ball'
+2025-07-31 22:20:32,245 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary'] | years → 1999–2019
+2025-07-31 22:21:32,372 [INFO] Лог сохранён: keyword → 'lol'
+2025-08-01 08:45:46,737 [INFO] Лог сохранён: keyword → 'film'
+2025-08-01 08:45:59,521 [INFO] Лог сохранён: keyword → 'hobby'
+2025-08-01 08:46:05,614 [INFO] Лог сохранён: keyword → 'apple'
+2025-08-01 08:46:14,043 [INFO] Лог сохранён: keyword → 'stock'
+2025-08-01 08:46:36,649 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary'] | years → 1999–2019
+2025-08-01 10:57:47,974 [INFO] Лог сохранён: genres → ['Action', 'Documentary', 'Foreign', 'Music'] | years → 1999–2020
+2025-08-03 16:43:41,327 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-03 16:43:55,919 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Classics', 'Documentary', 'Family'] | years → 1999–2019
+2025-08-03 16:44:30,081 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990–2025
+2025-08-03 18:08:27,899 [INFO] Лог сохранён: genres → ['Games', 'Sports', 'Travel'] | years → 1999–2009
+2025-08-05 08:52:34,323 [INFO] Лог сохранён: keyword → 'weit'
+2025-08-05 08:52:44,073 [INFO] Лог сохранён: keyword → 'weit'
+2025-08-05 08:52:56,618 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 09:11:05,745 [INFO] Лог сохранён: genres → ['Action', 'Children'] | years → 1994–2022
+2025-08-05 09:20:16,753 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1999–2024
+2025-08-05 09:22:34,856 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 09:23:03,197 [INFO] Лог сохранён: keyword → 'ball'
+2025-08-05 09:26:18,488 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 09:28:11,231 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–1990
+2025-08-05 09:33:37,705 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990–2025
+2025-08-05 09:58:48,532 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 10:33:38,958 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | year → 2000
+2025-08-05 10:36:25,804 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 10:36:51,230 [INFO] Лог сохранён: genres → ['Action'] | years → 1999–2020
+2025-08-05 10:37:08,929 [INFO] Лог сохранён: genres → ['Games'] | year → 2005
+2025-08-05 10:53:46,755 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | year → 1990
+2025-08-05 11:13:12,968 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2020
+2025-08-05 11:19:53,651 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Comedy'] | year → 1999
+2025-08-05 11:25:51,568 [INFO] Лог сохранён: genres → ['Action', 'Comedy'] | year → 2000
+2025-08-05 11:37:29,838 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990–2024
+2025-08-05 11:39:04,887 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | year → 2020
+2025-08-05 11:52:02,108 [INFO] Лог сохранён: genres → ['Animation'] | year → 2020
+2025-08-05 12:01:14,938 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | year → 2005
+2025-08-05 12:05:15,888 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Documentary', 'Drama'] | years → 1990–2024
+2025-08-05 12:09:14,397 [INFO] Лог сохранён: genres → ['Action', 'Children', 'Drama'] | years → 2000–2020
+2025-08-05 12:11:38,443 [INFO] Лог сохранён: genres → ['Action', 'Foreign'] | years → 1999–2020
+2025-08-05 12:13:19,546 [INFO] Лог сохранён: genres → ['Action', 'Games'] | years → 1992–2025
+2025-08-05 12:15:41,609 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2025
+2025-08-05 12:18:07,953 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2020
+2025-08-05 12:19:35,812 [INFO] Лог сохранён: genres → ['Animation'] | years → 1990–2020
+2025-08-05 12:22:41,944 [INFO] Лог сохранён: genres → ['Action', 'Games'] | years → 1990–2020
+2025-08-05 12:26:17,209 [INFO] Лог сохранён: genres → ['Action', 'Games'] | years → 1990–2020
+2025-08-05 12:30:18,347 [INFO] Лог сохранён: genres → ['Animation', 'Games', 'Sports'] | years → 1990–2024
+2025-08-05 12:32:22,745 [INFO] Лог сохранён: genres → ['Animation', 'Sports'] | years → 1990–2020
+2025-08-05 12:34:06,142 [INFO] Лог сохранён: genres → ['Action', 'Travel'] | years → 1999–2020
+2025-08-05 12:36:28,827 [INFO] Лог сохранён: genres → ['Action', 'Games'] | years → 1999–2020
+2025-08-05 12:48:25,515 [INFO] Лог сохранён: genres → ['Action', 'Games'] | years → 1990–2020
+2025-08-05 12:56:45,147 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1999–2020
+2025-08-05 13:05:13,844 [INFO] Лог сохранён: genres → ['Animation', 'Sports'] | years → 1999–2020
+2025-08-05 13:08:28,597 [INFO] Лог сохранён: genres → ['Action'] | years → 1999–2009
+2025-08-05 13:11:47,683 [INFO] Лог сохранён: genres → ['Action'] | years → 1995–2020
+2025-08-05 18:33:24,658 [INFO] Лог сохранён: genres → ['Children'] | years → 1990–2025
+2025-08-05 18:35:36,770 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2020
+2025-08-05 18:37:51,584 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2020
+2025-08-05 18:42:12,674 [INFO] Лог сохранён: genres → ['Action', 'Comedy'] | years → 1999–2009
+2025-08-05 18:43:56,954 [INFO] Лог сохранён: genres → ['Action'] | years → 1990–2010
+2025-08-05 19:04:45,949 [INFO] Лог сохранён: genres → ['New', 'Travel'] | year → 2022
+2025-08-05 19:07:06,448 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-05 19:12:07,431 [INFO] Лог сохранён: keyword → 'killer'
+2025-08-05 19:12:37,138 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | year → 2024
+2025-08-05 19:15:20,893 [INFO] Лог сохранён: genres → ['Documentary', 'Drama', 'Horror'] | years → 1999–2014
+2025-08-06 09:03:49,267 [INFO] Лог сохранён: genres → ['Comedy', 'Games'] | year → 1999
+2025-08-06 09:45:22,417 [INFO] Лог сохранён: genres → ['Action', 'Sci-Fi'] | year → 2000
+2025-08-06 12:19:10,790 [INFO] Лог сохранён: keyword → 'kill'
+2025-08-06 12:19:33,747 [INFO] Лог сохранён: genres → ['Action', 'Animation', 'Children', 'Classics', 'Comedy', 'Documentary', 'Drama', 'Family', 'Foreign', 'Games', 'Horror', 'Music', 'New', 'Sci-Fi', 'Sports', 'Travel'] | years → 1990–2023
