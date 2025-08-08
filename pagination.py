@@ -1,4 +1,4 @@
-from typing import Callable, Any
+from typing import Callable
 from input_utils import prompt_next_page
 from visualizer import loading_animation, celebrate
 from formatter import format_movies_table

@@ -1,5 +1,4 @@
 import time
-import sys
 from typing import List
 
 try:

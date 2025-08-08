@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta
 import logging
 from functools import wraps
-from typing import Callable, Any, Optional, List
+from typing import Callable, Any, List
 
 # 🛠 Настройка логирования в файл
 logging.basicConfig(
